@@ -1,0 +1,16 @@
+{
+  "name": "ejercicios-funciones-recursividad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timeDescomposition.js",
+  "scripts": {
+    "tsc": "tsc --init",
+    "build": "tsc ./src/timeDescomposition.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
